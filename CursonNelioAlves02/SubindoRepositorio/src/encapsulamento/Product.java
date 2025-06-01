@@ -5,6 +5,9 @@ public class Product {
     private double price;
     private int quantidade;
 
+//   sobrecarga de construtores
+    public Product(){}
+
 
     public Product(String name, double price, int quantidade){
         this.name = name;
@@ -35,5 +38,28 @@ public class Product {
     }
     public void setQuantidade(int quantidade){
         this.quantidade = quantidade;
+
+    }
+
+
+
+  //  Metodos de remover e add products
+    public void removeProducts(int quantidade){
+        if(quantidade > 0){
+            quantidade -= quantidade;
+        }
+
+    }
+    public void addProducts(int quantidade){
+        quantidade += quantidade;
+    }
+    public String toString(){
+        return "Name: " +
+        name +
+        " Price: " +
+        price +
+        "Quantity: "+
+        quantidade;
+
     }
 }
