@@ -43,11 +43,11 @@ public class Account {
         this.balance = balance;
     }
 
-    // Metodo de saque
+    //  metodo de deposito
     public void deposit(double valor){
         balance += valor;
     }
-    // Metodo de deposito
+    //  metodo de saque
     public void whitDraw(double valor){
         balance -= valor + 5.0;
     }
