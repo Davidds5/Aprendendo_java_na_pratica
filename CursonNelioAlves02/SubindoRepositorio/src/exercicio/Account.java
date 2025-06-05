@@ -51,5 +51,13 @@ public class Account {
     public void whitDraw(double valor){
         balance -= valor + 5.0;
     }
+    public String toString(){
+        return "Account "
+                + number
+                + ", Holder "
+                + holder
+                + ", Balance: $ "
+                +  String.format("%.2f", balance);
+    }
 
 }
