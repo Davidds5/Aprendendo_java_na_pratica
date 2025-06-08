@@ -18,13 +18,11 @@ public class Atividade01 {
             vecto[i] = sc.nextInt();
 
         }
-        System.out.println("Numero negativos: ");
+        System.out.println("NUMEROS NEGATIVOS: ");
         for (int i = 0; i < n; i++) {
             if (vecto[i] < 0){
-                System.out.println("Numero negativo: " + vecto[i]);
+                System.out.println("NUMEROS NEGATIVOS: " + vecto[i]);
             }
-
         }
     }
-
 }
