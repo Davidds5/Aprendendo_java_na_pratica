@@ -8,22 +8,25 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Informe um numero: ");
         int n = sc.nextInt();
-        double[] vecto = new double[n];
 
-        for( int i = 0; i < n; i ++){
+        double[] vecto = new double[n];
+        for (int i = 0; i <n ; i++) {
+            System.out.println("Informe a altura:");
             vecto[i] = sc.nextDouble();
         }
-
         double soma = 0.0;
-        for(int i = 0; i < n; i ++){
+
+        for (int i = 0; i <n ; i++) {
             soma += vecto[i];
+
         }
+        // soma da altura media
         double avg = soma/ n;
 
-        System.out.printf("A Media de Tamanho e de %.2f: ", avg);
+        System.out.printf("Media das alturas: %.2f\n" ,avg);
 
-        sc.close();
-
+        System.out.println(soma);
     }
 }
