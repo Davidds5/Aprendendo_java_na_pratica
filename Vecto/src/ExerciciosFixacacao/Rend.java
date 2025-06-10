@@ -28,4 +28,8 @@ public class Rend {
     public void setGmail(String gmail) {
         this.gmail = gmail;
     }
+    @Override
+    public String toString() {
+        return nome + ", " + gmail;
+    }
 }
