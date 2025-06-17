@@ -1,5 +1,7 @@
 package Aula02;
 
+import AtividadesArquivo.Products;
+
 import java.util.Locale;
 import java.util.Scanner;
 

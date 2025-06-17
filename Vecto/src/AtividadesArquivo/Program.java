@@ -1,4 +1,4 @@
-package Aula01;
+package AtividadesArquivo;
 
 import java.util.Locale;
 import java.util.Scanner;
