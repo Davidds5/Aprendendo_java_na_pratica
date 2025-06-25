@@ -1,4 +1,4 @@
-package ReforcoLogicaIfElse;
+package NIvelFacil;
 
 import java.util.Scanner;
 
