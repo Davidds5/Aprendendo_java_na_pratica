@@ -27,10 +27,10 @@ public class At03 {
         for (int i = 0; i <listNUmber.size() ; i++) {
             if (maiorNumber < listNUmber.get(i)){
                 maiorNumber = listNUmber.get(i);
-                System.out.println("Maior Numero: " + maiorNumber);
             }
 
         }
+        System.out.println("Maior numero: " + maiorNumber);
 
     }
 }
