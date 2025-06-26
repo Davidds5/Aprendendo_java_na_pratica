@@ -1,6 +1,6 @@
 package Projeto;
 
-public enum WorkeLevel {
+public enum WorkerLevel {
     JUNIOR,
     MID_LEVEL,
     SENIOR;

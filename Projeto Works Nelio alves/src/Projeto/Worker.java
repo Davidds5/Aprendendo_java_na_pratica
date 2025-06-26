@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Worker {
     private String nome;
-    private WorkeLevel workeLevel;
+    private WorkerLevel workerLevel;
     private Double baseSalary;
 
     private Department department;
@@ -15,9 +15,9 @@ public class Worker {
     public Worker(){
 
     }
-    public Worker(String nome, WorkeLevel workeLevel, Double baseSalary, Department department){
+    public Worker(String nome, WorkerLevel workerLevel, Double baseSalary, Department department){
         this.nome = nome;
-        this.workeLevel = workeLevel;
+        this.workerLevel = workerLevel;
         this.baseSalary = baseSalary;
         this.department = department;
 
@@ -32,12 +32,12 @@ public class Worker {
         this.nome = nome;
     }
 
-    public WorkeLevel getWorkeLevel() {
-        return workeLevel;
+    public WorkerLevel getWorkerLevel() {
+        return workerLevel;
     }
 
-    public void setWorkeLevel(WorkeLevel workeLevel) {
-        this.workeLevel = workeLevel;
+    public void setWorkerLevel(WorkerLevel workerLevel) {
+        this.workerLevel = workerLevel;
     }
 
     public Double getBaseSalary() {
