@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c55b189-a411-4f63-81d1-828bd4add799" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadeFixacaoList/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadeFixacaoList/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadesArquivo/Atividade01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadesArquivo/Atividade02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadesArquivo/Atividade03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadesArquivo/Products.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadesArquivo/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulaSobreBoxingUnboxing/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciciosFixacacao/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciciosFixacacao/Rend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForEach/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lista/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matriz/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RevisaoDoAssunto/ProgramNegativos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste/Soma.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yBZU07oSLeeNYr2GexU36CdrAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Atividade01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeFixacao.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeFixacaoList.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSobre.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AulaSobreBoxingUnboxing.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lista.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgramNegativos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/davis/OneDrive/Documentos/Repositorios/Aprendendo_java_na_pratica/Vecto/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ProgramNegativos">
+    <configuration name="AtividadeFixacaoList.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtividadeFixacaoList.Program" />
+      <module name="Vecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AtividadesArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtividadeSobre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista.AtividadeSobre" />
+      <module name="Vecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AtividadesArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista.Program" />
+      <module name="Vecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AtividadesArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriz.Program" />
+      <module name="Vecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matriz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramNegativos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevisaoDoAssunto.ProgramNegativos" />
+      <module name="Vecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RevisaoDoAssunto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProgramNegativos" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.AtividadeFixacaoList.Program" />
+        <item itemvalue="Application.AtividadeSobre" />
+        <item itemvalue="Application.Lista.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c55b189-a411-4f63-81d1-828bd4add799" name="Changes" comment="" />
+      <created>1749309940899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749309940899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="22fd577f-47c7-4566-aee4-32b9e9630877" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="22fd577f-47c7-4566-aee4-32b9e9630877">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/davis/OneDrive/Documentos/Repositorios/Aprendendo_java_na_pratica/Vecto/src/Attividades" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
