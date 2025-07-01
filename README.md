@@ -1,4 +1,21 @@
 # Aprendendo_java_na_pratica
+
+# Aprendendo Java na Prática
+
+Este repositório contém exercícios práticos, projetos e reforços de lógica desenvolvidos durante meus estudos de Java com foco em backend.
+
+## Estrutura
+
+- `/reforcoVectoiList`: Exercícios sobre vetores e listas
+- `/Projeto Works`: Projeto baseado no curso do Nélio Alves
+- (Mais diretórios serão adicionados com novos tópicos)
+
+## Objetivo
+Consolidar os principais conceitos de Java na prática com foco em preparação para estágio.
+
+## Status
+🚧 Em desenvolvimento constante
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Reforço: Vetores e Listas em Java
 
 Este diretório contém exercícios de reforço prático sobre **vetores (arrays)** e **listas (`List`) em Java**, com foco em lógica de programação e manipulação de dados.
